@@ -1,0 +1,6 @@
+The SHAP values reveal key genetic features impacting the predicted Area Above the Curve (AAC) for erlotinib response.
+
+- **UGT1A3 (SHAP: 0.0123836):** Moderate positive contribution, indicating its expression level (3.81211) may influence the efficacy of erlotinib, potentially affecting its pharmacokinetics and metabolism.
+- **UGT1A6 (SHAP: 0.0105802):** Slightly positive effect, suggesting its expression level (5.95259) may contribute to the drug's pharmacokinetic profile and impact its response.
+- **UGT1A4 (SHAP: 0.00793713):** Minimal positive impact, reflecting its limited involvement in the drug's metabolism and response.
+- **MOB3C (SHAP: 0.0047477):** Very minor positive contribution, indicating its expression level (4.50961) has a negligible effect on the predicted AAC.
