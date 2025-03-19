@@ -13,8 +13,7 @@ By combining accuracy and interpretability, this project contributes to advancin
 
 **Team members:** Jérémy Barghorn, Théo Schifferli & Jérémy Chaverot
 
-<p align="center" style="font-size: 15px;"><b>✨🌟 Currently ranked #1 on the competition leaderboard! 🏆🎉</b></p>
-
+## ✨🌟 Finished 2nd in the overall competition🥈, after IEEE SSCI 2025 presentation in Trondheim, Norway 🇳🇴🎉
 
 ### Project Structure
 
